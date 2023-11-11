@@ -164,7 +164,7 @@
   /* MAIN CONTENT 768+ */
   .content {
     background-position: 0 30%;
-    margin-bottom: 0;
+    margin-bottom: 60px;
   }
   .content__title {
     font-size: 3.6rem;
@@ -176,6 +176,7 @@
   .content {
     padding-bottom: 40px;
     background-position: 0 50%;
+    margin-bottom: 0;
     /* SECTION 1024+ */
   }
   .content__title {

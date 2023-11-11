@@ -187,7 +187,7 @@
 
     .content {
         background-position: 0 30%;
-        margin-bottom: 0;
+        margin-bottom: 60px;
 
         &__title {
             font-size:$font-xl;
@@ -203,6 +203,7 @@
     .content {
         padding-bottom: 40px;
         background-position: 0 50%;
+        margin-bottom: 0;
 
         &__title {
             font-size:$font-xxxl;
